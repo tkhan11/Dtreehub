@@ -88,8 +88,8 @@ model = dtb.fit(df, config)
 
 The following regular decision tree algorithms are wrapped in the library.
 
-| Algorithm  | Metric | Tutorial | Demo |
-| ---        | --- | ---      | ---  |
+| Algorithm  | Metric |
+| ---        | --- | 
 | ID3        | Entropy, Information Gain  |
 | C4.5       | Entropy, Gain Ratio | |
 | CART       | GINI | 
