@@ -1,8 +1,5 @@
 ﻿# Dtreehub
 
-[![Stars](https://github.com/tkhan11/Dtreehub)
-[![License]( https://github.com/tkhan11/Dtreehub/blob/master/LICENSE)
-
 **Dtreehub** is a lightweight decision tree framework for Python **with categorical feature support**. It covers regular decision tree algorithms: ID3, C4.5, CART, CHAID and regression tree, random forest and adaboost. You just need to write **a few lines of code** to build decision trees with Dtreehub.
 
 
